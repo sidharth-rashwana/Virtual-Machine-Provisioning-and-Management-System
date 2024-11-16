@@ -8,4 +8,4 @@ Features:
 4. **Concurrent VM Instance Management**: Enable users to run and manage multiple VM instances simultaneously, with full support for shared and individual control.
 5. **Advanced Process Management**: Provides real-time monitoring of active VM processes with the ability to terminate malfunctioning or unresponsive processes, ensuring system stability and robust error handling.
 6. **Operation Tracking**: Track user actions, like creating or deleting disk images and VMs, with timestamps for auditing and activity history.
-7. **firewall** : Control inbound and outbound traffic for the VMs with user-defined rules.
+7. **Firewall** : Control inbound and outbound traffic for the VMs with user-defined rules.
