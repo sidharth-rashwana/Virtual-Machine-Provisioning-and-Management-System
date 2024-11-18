@@ -9,3 +9,4 @@ Features:
 5. **Advanced Process Management**: Provides real-time monitoring of active VM processes with the ability to terminate malfunctioning or unresponsive processes, ensuring system stability and robust error handling.
 6. **Operation Tracking**: Track user actions, like creating or deleting disk images and VMs, with timestamps for auditing and activity history.
 7. **Firewall Management**: Enable control of inbound and outbound network traffic for VMs using user-defined rules, ensuring secure and customizable network configurations.
+8. **Kubernetes** : Enable users to provision and manage Kubernetes clusters directly from the platform. 
